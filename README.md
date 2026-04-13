@@ -23,6 +23,7 @@ pip install requests
 
 # 2. Create directory
 mkdir ~/agent-multi-tool
+git clone https://github.com/Bless419/Multi-Tool-Suit--Termux-.git
 cd ~/agent-multi-tool
 
 # 3. Save files
